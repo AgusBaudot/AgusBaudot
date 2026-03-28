@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agusbaudot&label=Profile%20views&color=0e75b6&style=flat" alt="agusbaudot" /> </p>
 
-- 🔭 I’m currently working on [Procedural generation](https://github.com/AgusBaudot/Procedural-generation)
+- 🔭 I’m currently working on [A Dungeon-crawler roguelike](https://github.com/AgusBaudot/ArcaneRoulette)
 
-- 🌱 I’m currently learning **Advanced math applied to games!**
+- 🌱 I’m currently learning **High level system architecture**
 
 - 👯 I’m looking to collaborate on **game development in C#**
 
