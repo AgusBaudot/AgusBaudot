@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agusbaudot&label=Profile%20views&color=0e75b6&style=flat" alt="agusbaudot" /> </p>
 
-- 🔭 I’m currently working on [A Dungeon-crawler roguelike](https://github.com/AgusBaudot/ArcaneRoulette)
+- 🔭 I’m currently working on a [dungeon-crawler roguelike](https://github.com/AgusBaudot/ArcaneRoulette)
 
 - 🌱 I’m currently learning **High level system architecture**
 
