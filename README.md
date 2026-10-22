@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [dungeon-crawler roguelike](https://github.com/AgusBaudot/ArcaneRoulette), a [Quantum physics educational game](https://github.com/AgusBaudot/Quarky-Verse), a mobile incremental where strategic progression meets infinite scaling, and a split-control 2v2 arena shooter where coordination is mandatory, but communication seems impossible.
 
-- 🌱 I’m currently learning system architecture, low-level optimization, and team leadership.
+- 🌱 I’m currently learning system architecture, low-level optimization, and team leadership. Also investigating Unity CLI integration for CI via GitHub Actions.
 
 - 👯 I’m looking to collaborate on game development in C# & C++
 
